@@ -20,7 +20,7 @@ namespace IndianStateCensus.POCO
         public double totalArea;
         public double waterArea;
         public double landArea;
-        public double housingDensity;
+       
 
         public CensusDTO(StateCodeDAO stateCodeDataDAO)
         {
